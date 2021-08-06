@@ -50,9 +50,13 @@ In the next update, these files need to be deleted from the SD card.
 **Steps to see if the update is successful,**
 
 When the screen is successfully connected to the printer, proceed as follows,
+
 `Info` -> `Menu` -> `Settings` -> `Info`,
+
 Check the version displayed in the MULTOO Code item. For example, the display content is,
+
 `MULTOO Code: V1.1.2`
+
 
 
 If the version number changes, it means the update was successful.
