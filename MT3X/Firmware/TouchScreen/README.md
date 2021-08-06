@@ -34,7 +34,7 @@ The automatic update begins.
 
 Required files in SD card before update
 
-![Image](https://github.com/MULTOO-3DPrinter/MULTOO_3D_Printer/blob/a3c0962cae28c9d749e76b9dc8239584dbe79238/MT3X/Firmware/TouchScreen/imgs/before.svg) 
+![Image](https://raw.githubusercontent.com/MULTOO-3DPrinter/MULTOO_3D_Printer/main/MT3X/Firmware/TouchScreen/imgs/after.svg) 
 
 In the next update, these files must be copied to the SD card. 
 
@@ -42,7 +42,7 @@ In the next update, these files must be copied to the SD card.
 
 Files in SD card after update
 
-![Image](https://github.com/MULTOO-3DPrinter/MULTOO_3D_Printer/blob/a3c0962cae28c9d749e76b9dc8239584dbe79238/MT3X/Firmware/TouchScreen/imgs/after.svg)
+![Image](https://raw.githubusercontent.com/MULTOO-3DPrinter/MULTOO_3D_Printer/main/MT3X/Firmware/TouchScreen/imgs/after.svg)
 
 In the next update, these files need to be deleted from the SD card.
 
