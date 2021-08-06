@@ -22,19 +22,19 @@ If you don't know which firmware to use, copy them all to the SD card. The updat
 3. If there is a residual file `xxxx.CUR` in the SD card, please delete it. It is the cache file generated during the last upgrade. If it is stored in the SD card, it may cause your upgrade to fail this time.
 4. Copy `xxxx.bin` to the SD card (do not change the name). Then copy the folder `TFT35` and `config.ini` to the SD card.
 PS: `reset.txt` is an empty text file. If your update is stuck at the last step and cannot jump to the menu, then copy it to the SD card and re-upgrade. )
+
 5. Insert on the screen. Press the small black button on the screen, it is the reset button.
 The automatic update begins.
 
 &nbsp;
 
 
-MT3X/Firmware/TouchScreen/imgs/after.svg
-
 
 
 | Required files in SD card before update | Files in SD card after update |
 | :--- | ---: |
-| <img src="./imgs/before.svg" /> | <img src="./imgs/after.svg" /> |
+| ![Image](https://github.com/MULTOO-3DPrinter/MULTOO_3D_Printer/blob/a3c0962cae28c9d749e76b9dc8239584dbe79238/MT3X/Firmware/TouchScreen/imgs/before.svg) | ![Image](https://github.com/MULTOO-3DPrinter/MULTOO_3D_Printer/blob/a3c0962cae28c9d749e76b9dc8239584dbe79238/MT3X/Firmware/TouchScreen/imgs/after.svg)
+ |
 |  In the next update, these files must be copied to the SD card. |In the next update, these files need to be deleted from the SD card.|
 
 &nbsp;
