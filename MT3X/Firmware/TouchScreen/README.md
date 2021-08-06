@@ -49,7 +49,7 @@ When the screen is successfully connected to the printer, proceed as follows,
 
 `Info` -> `Menu` -> `Settings` -> `Info`,
 
-Check the version displayed in the MULTOO Code item. For example, the display content is,
+Check the version displayed in the `MULTOO Code` item. For example, the display content is,
 
 `MULTOO Code: V1.1.2`
 
