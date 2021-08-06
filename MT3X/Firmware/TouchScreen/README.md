@@ -11,7 +11,8 @@ BIQU_TFT35_APP1_V2.0.27.x.bin
 BIGTREE_GD_TFT35_V2.0.27.x
 
 They are the firmware of two different screens. 
-If you don't know which firmware to use, copy them all to the SD card. The update process will automatically select a firmware update.
+If you don't know which firmware to use, 
+copy them all to the SD card. The update process will automatically select a firmware update.
 ```
 
 
