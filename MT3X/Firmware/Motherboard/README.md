@@ -46,6 +46,6 @@ The Z axis of the representative printer is 500mm, and it is a high-temperature 
 When the screen is successfully connected to the printer, proceed as follows,
 `Info` -> `Menu` -> `Settings` -> `Info`,
 Check the time displayed in the System item. For example, the display content is,
-`Marlin 2.0.6.0 (Aug 5 2021 00:06:10)`
+`Marlin 2.0.6.1 (Aug 5 2021 00:06:10)`
 
 If the time is different from the time of the previous version, it means the update was successful.
