@@ -32,3 +32,5 @@ It's printing is mainly for two operations,
 
 Please see the manual for its use.
 
+*This file has been optimized. The first layer is a circular path, which is convenient for the operation of babystep.*
+
