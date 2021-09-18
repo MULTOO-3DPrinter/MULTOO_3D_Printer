@@ -19,7 +19,8 @@ The files in the folder are `bin` files.
 ## Update log
 ```
 The offset value of the X axis in the calibration parameters sometimes becomes invalid.
-For example, when you set the `offset 2nd nozzle -> X` in the calibration operation, it is effective. It will be invalid when you print again.
+For example, when you set the `offset 2nd nozzle -> X` in the calibration operation, it is effective. 
+It will be invalid when you print again.
 ```
 
 This problem has been fixed in `.12`. Please update to this version.
