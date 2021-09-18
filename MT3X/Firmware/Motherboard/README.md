@@ -9,9 +9,19 @@
 
 
 
-This is a list of folders. The name of the folder represents the update date.
+This is a list of folders. The name of the folder represents the version.
+
+The current version is `2.0.6.1.12`.
 
 The files in the folder are `bin` files. 
+
+
+## Update log
+```
+The offset value of the X axis in the calibration parameters sometimes becomes invalid. For example, when you set the `offset 2nd nozzle -> X` in the calibration operation, it is effective. It will be invalid when you print again.
+```
+
+This problem has been fixed in `.12`. Please update to this version.
 
 
 
@@ -46,6 +56,8 @@ The Z axis of the representative printer is 500mm, and it is a high-temperature 
 When the screen is successfully connected to the printer, proceed as follows,
 `Info` -> `Menu` -> `Settings` -> `Info`,
 Check the time displayed in the System item. For example, the display content is,
-`Marlin 2.0.6.1 (Aug 5 2021 00:06:10)`
+`Marlin 2.0.6.1.12 (Sep 18 2021 00:06:10)`
 
-If the time is different from the time of the previous version, it means the update was successful.
+If the time is different from the time of the previous version, it means the update was successful. The version number will also change at the same time.
+`Marlin 2.0.6.1` is the major version number.
+`.12` is the minor version number. This version is released and revised by us.
