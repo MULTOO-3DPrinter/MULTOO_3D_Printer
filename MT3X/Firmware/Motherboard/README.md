@@ -18,7 +18,8 @@ The files in the folder are `bin` files.
 
 ## Update log
 ```
-The offset value of the X axis in the calibration parameters sometimes becomes invalid. For example, when you set the `offset 2nd nozzle -> X` in the calibration operation, it is effective. It will be invalid when you print again.
+The offset value of the X axis in the calibration parameters sometimes becomes invalid.
+For example, when you set the `offset 2nd nozzle -> X` in the calibration operation, it is effective. It will be invalid when you print again.
 ```
 
 This problem has been fixed in `.12`. Please update to this version.
@@ -59,5 +60,8 @@ Check the time displayed in the System item. For example, the display content is
 `Marlin 2.0.6.1.12 (Sep 18 2021 00:06:10)`
 
 If the time is different from the time of the previous version, it means the update was successful. The version number will also change at the same time.
+
 `Marlin 2.0.6.1` is the major version number.
+
 `.12` is the minor version number. This version is released and revised by us.
+
