@@ -60,4 +60,5 @@ If the version number changes, it means the update was successful.
 If you update the same firmware version, then this version number will not change. But there are two ways to judge whether the update is successful,
 1. There is a complete update process. This process will represent a successful update.
 2. There are cache files. The three cache files are,
+
 ![Image](https://raw.githubusercontent.com/MULTOO-3DPrinter/MULTOO_3D_Printer/main/MT3X/Firmware/TouchScreen/imgs/after.svg) 
